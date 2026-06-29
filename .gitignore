@@ -1,0 +1,19 @@
+# Локальные резервные копии (создаются установщиком на вашем ПК)
+*.original.bak
+*.bak
+
+# Файлы конкретной версии приложения / служебные, в репозиторий не нужны
+resources.pri
+en-us.json
+zh-cn.json
+ru-ru.STUB.json
+dump.xml
+pri_candidates.txt
+build_ru.py
+01-Dump-Resources.bat
+README-RU.md
+
+# Системное
+Thumbs.db
+desktop.ini
+.DS_Store
